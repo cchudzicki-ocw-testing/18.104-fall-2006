@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains sample student projects from the course.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains information about Prerequisite, Textbook,Format
+  and Expectations,Assignments & Exams and the grading criteria.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
